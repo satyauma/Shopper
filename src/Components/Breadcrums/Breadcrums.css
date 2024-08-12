@@ -1,0 +1,13 @@
+.breadcrum{
+    color:rebeccapurple;
+    font-style: 20px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 60px 170px;
+    text-transform: capitalize;
+}
+.breadcrum img{
+    width: 1%;
+}

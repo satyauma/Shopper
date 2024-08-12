@@ -1,0 +1,14 @@
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    box-shadow: 0 1px 3px -2px black;
+}
+.footer-copy-right{
+    
+    align-items:end;
+    justify-content:end;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(89,5,89);
+}
